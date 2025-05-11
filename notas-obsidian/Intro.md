@@ -1,0 +1,2 @@
+[[Ratios]] Notes
+[[Python]] Notes

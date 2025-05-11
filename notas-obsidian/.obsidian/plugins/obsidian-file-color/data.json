@@ -1,0 +1,45 @@
+{
+  "cascadeColors": true,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "hJrCC-Lpe-h8UjStfadKn",
+      "name": "Yellow",
+      "value": "#fffa70"
+    },
+    {
+      "id": "y5AMWp7cV1KKKY7b8Bj3a",
+      "name": "Red",
+      "value": "#ff0a0a"
+    },
+    {
+      "id": "ULHA02x4EXtDKLVfrHzXI",
+      "name": "Blue",
+      "value": "#1a53ff"
+    },
+    {
+      "id": "uXTIAVd2NRL0mjAI1zJQY",
+      "name": "Green",
+      "value": "#4efd71"
+    },
+    {
+      "id": "omGp-gWdbKOzS1ahyQw_6",
+      "name": "Orange",
+      "value": "#ff6a38"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Ratios",
+      "color": "hJrCC-Lpe-h8UjStfadKn"
+    },
+    {
+      "path": "Python",
+      "color": "uXTIAVd2NRL0mjAI1zJQY"
+    },
+    {
+      "path": "Negociación",
+      "color": "omGp-gWdbKOzS1ahyQw_6"
+    }
+  ]
+}
