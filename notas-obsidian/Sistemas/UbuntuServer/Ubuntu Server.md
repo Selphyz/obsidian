@@ -5,3 +5,5 @@
 * Configura el almacenamiento (usar disco completo suele ser lo más sencillo).
 * Crea un usuario y contraseña.
 * Selecciona si quieres instalar OpenSSH (recomendado para acceso remoto).
+
+[[Resize Hard Disk]]
