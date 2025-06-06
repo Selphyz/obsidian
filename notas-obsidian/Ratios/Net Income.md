@@ -1,3 +1,0 @@
-Net Profit Margin=(Net Income/Revenue)​×100
-
-A consistently high and stable or improving net profit margin suggests that a company is efficient in managing its costs and has pricing power. This is often indicative of a strong competitive advantage, as the company can translate a higher portion of its sales into profit. Buffett seeks out businesses with durable economic moats that allow them to maintain high-profit margins over time, protecting them from competition.
