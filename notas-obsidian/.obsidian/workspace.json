@@ -97,16 +97,86 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI Engineering/AI Engineering.md",
+                "file": "Sistemas/Docker/Docker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI Engineering"
+              "title": "Docker"
+            }
+          },
+          {
+            "id": "802dd7dc05c36761",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistemas/Docker/Docker.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Docker"
+            }
+          },
+          {
+            "id": "aee6ff757f123cff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistemas/Docker/Docker.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Docker"
+            }
+          },
+          {
+            "id": "869e9e40b5f93616",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistemas/Docker/Docker.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Docker"
+            }
+          },
+          {
+            "id": "ce1af73d36300939",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistemas/Docker/K8.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "K8"
+            }
+          },
+          {
+            "id": "287914b1cf7fa8ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistemas/Docker/Docker.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Docker"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -254,12 +324,19 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "cd6d8949929cd1c6",
+  "active": "95a9e61e6b285f26",
   "lastOpenFiles": [
-    "AI Engineering/Copilot.md",
-    "AI Engineering/AI Engineering.md",
-    "AI Engineering/Extensiones.md",
+    "Sistemas/Docker/K8.md",
+    "Sistemas/Docker/Docker.md",
+    "Sistemas/Docker/Docker Commands.md",
+    "Sistemas/Sistemas.md",
+    "Sistemas/Instalación MCP.md",
+    "Sistemas/UbuntuServer/SCP Descargas.md",
+    "Sistemas/UbuntuServer/Resize Hard Disk.md",
     "AI Engineering/Prompt Engineering.md",
+    "AI Engineering/Extensiones.md",
+    "AI Engineering/AI Engineering.md",
+    "AI Engineering/Copilot.md",
     "Ratios/Ratios.md",
     "AI Engineering",
     "Intro.md",
@@ -276,17 +353,10 @@
     "Negocios/Negocios.md",
     "Negocios/MBA Personal.md",
     "Negocios/Learn Startup.md",
-    "Negociación/Never Split the difference.md",
-    "Mejora/Smart Notes.md",
-    "Negociación/Negociación.md",
-    "Negociación/EveryBody Language.md",
-    "Mejora/Second Brain.md",
     "Mejora",
     "Psicologia",
     "Negocios",
-    "Python/Python.md",
     "Negociación",
-    "Ratios/ROE Ratio.md",
     "Python/Fastapi",
     "Python/Scikit Learn",
     "Python/Pandas",

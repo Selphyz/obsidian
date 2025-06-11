@@ -1,87 +1,84 @@
 {
   "main": {
-<<<<<<< HEAD
-    "id": "e016c9d72766fa15",
+    "id": "bf87f13ca282f173",
     "type": "split",
     "children": [
       {
-        "id": "e1d86a6da6e3552a",
+        "id": "876287ae90733f19",
         "type": "tabs",
         "children": [
           {
-            "id": "fe2cf04b8f010b1a",
-=======
-    "id": "68568c935cd4fda4",
-    "type": "split",
-    "children": [
-      {
-        "id": "fce17ed3b6216422",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d21bf60598865819",
->>>>>>> 5230bb8963916d61f148d87502bfd44ff91deb19
+            "id": "024dc786229d0252",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "notas-obsidian/Negociación/Negociación.md",
-=======
-                "file": "notas-obsidian/Azure/Azure Devops/Azure Devops.md",
->>>>>>> 5230bb8963916d61f148d87502bfd44ff91deb19
+                "file": "notas-obsidian/Intro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-<<<<<<< HEAD
-              "title": "Negociación"
-=======
-              "title": "Azure Devops"
+              "title": "Intro"
             }
           },
           {
-            "id": "cb7a0605316a4351",
+            "id": "347010c40fbf0e2d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas-obsidian/Sistemas/UbuntuServer/Resize Hard Disk.md",
+                "file": "notas-obsidian/Sistemas/Docker/Docker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Resize Hard Disk"
->>>>>>> 5230bb8963916d61f148d87502bfd44ff91deb19
+              "title": "Docker"
+            }
+          },
+          {
+            "id": "fe2d95ba1ed56799",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notas-obsidian/Sistemas/Docker/Docker.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Docker"
+            }
+          },
+          {
+            "id": "7592b85cfb24253b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker Commands.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Docker Commands"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
   },
   "left": {
-<<<<<<< HEAD
-    "id": "b56e4e3aea26fb6f",
+    "id": "12c266f1368a8cf7",
     "type": "split",
     "children": [
       {
-        "id": "cd53b5906efd8700",
+        "id": "03bdcc43e36b6b7e",
         "type": "tabs",
         "children": [
           {
-            "id": "e17dd0f4aadd13b3",
-=======
-    "id": "ee4640bf733c7cdf",
-    "type": "split",
-    "children": [
-      {
-        "id": "9591c12d956c0f76",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b36721c48753cd7b",
->>>>>>> 5230bb8963916d61f148d87502bfd44ff91deb19
+            "id": "9e84f9179ad83e83",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -94,11 +91,7 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "eab0939a39abc3b2",
-=======
-            "id": "ce6634fd44a0e1d5",
->>>>>>> 5230bb8963916d61f148d87502bfd44ff91deb19
+            "id": "1bd584c7c068568d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -115,11 +108,7 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "0c304b8bf77d7e76",
-=======
-            "id": "e4f87de0b58a4dc5",
->>>>>>> 5230bb8963916d61f148d87502bfd44ff91deb19
+            "id": "203366b41a219489",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -135,36 +124,20 @@
     "width": 300
   },
   "right": {
-<<<<<<< HEAD
-    "id": "c9b4edd2493e3f6a",
+    "id": "4dfcd9565784585e",
     "type": "split",
     "children": [
       {
-        "id": "28333ffdcce91f48",
+        "id": "18633549b6e44376",
         "type": "tabs",
         "children": [
           {
-            "id": "c1cad6e3dfd8f8f2",
-=======
-    "id": "89d27d215cf5dfa3",
-    "type": "split",
-    "children": [
-      {
-        "id": "2f825f05836dfdeb",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1e42fb6ca0bf07a2",
->>>>>>> 5230bb8963916d61f148d87502bfd44ff91deb19
+            "id": "c68c891205eb7b15",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "notas-obsidian/Negociación/Negociación.md",
-=======
-                "file": "notas-obsidian/Intro.md",
->>>>>>> 5230bb8963916d61f148d87502bfd44ff91deb19
+                "file": "Docker Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,45 +147,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-<<<<<<< HEAD
-              "title": "Backlinks for Negociación"
+              "title": "Backlinks for Docker Commands"
             }
           },
           {
-            "id": "2313b4ff7791a4b5",
-=======
-              "title": "Backlinks for Intro"
-            }
-          },
-          {
-            "id": "ad668f609ba1f8dd",
->>>>>>> 5230bb8963916d61f148d87502bfd44ff91deb19
+            "id": "8487ef3754bc6b99",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "notas-obsidian/Negociación/Negociación.md",
-=======
-                "file": "notas-obsidian/Intro.md",
->>>>>>> 5230bb8963916d61f148d87502bfd44ff91deb19
+                "file": "Docker Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-<<<<<<< HEAD
-              "title": "Outgoing links from Negociación"
+              "title": "Outgoing links from Docker Commands"
             }
           },
           {
-            "id": "fe4538306b50146c",
-=======
-              "title": "Outgoing links from Intro"
-            }
-          },
-          {
-            "id": "2b2d6a75b419cc12",
->>>>>>> 5230bb8963916d61f148d87502bfd44ff91deb19
+            "id": "9487dca455f349fe",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -227,30 +180,18 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "5faa5c142671e269",
-=======
-            "id": "5dae81712618c6da",
->>>>>>> 5230bb8963916d61f148d87502bfd44ff91deb19
+            "id": "3e193504f809d19e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "notas-obsidian/Negociación/Negociación.md",
-=======
-                "file": "notas-obsidian/Intro.md",
->>>>>>> 5230bb8963916d61f148d87502bfd44ff91deb19
+                "file": "Docker Commands.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-<<<<<<< HEAD
-              "title": "Outline of Negociación"
-=======
-              "title": "Outline of Intro"
->>>>>>> 5230bb8963916d61f148d87502bfd44ff91deb19
+              "title": "Outline of Docker Commands"
             }
           }
         ]
@@ -270,41 +211,16 @@
       "command-palette:Open command palette": false
     }
   },
-<<<<<<< HEAD
-  "active": "fe2cf04b8f010b1a",
+  "active": "7592b85cfb24253b",
   "lastOpenFiles": [
-    "notas-obsidian/Negociación/Never Split the difference.md",
-    "notas-obsidian/Negociación/Negociación.md"
-=======
-  "active": "d21bf60598865819",
-  "lastOpenFiles": [
-    "Untitled.canvas",
-    "notas-obsidian/Sistemas/UbuntuServer/Ubuntu Server.md",
-    "notas-obsidian/Sistemas/UbuntuServer/Resize Hard Disk.md",
+    "notas-obsidian/Sistemas/Docker/Docker.md",
     "notas-obsidian/Sistemas/Sistemas.md",
-    "notas-obsidian/Python/Fastapi/Fastapi.md",
-    "notas-obsidian/Python/Python.md",
-    "notas-obsidian/Ratios/Debt to Equity.md",
-    "notas-obsidian/Ratios/Net Income %.md",
-    "notas-obsidian/Ratios/PER Ratio.md",
-    "notas-obsidian/Ratios/Price to Book.md",
-    "notas-obsidian/Ratios/Ratios.md",
-    "notas-obsidian/Ratios/ROE Ratio.md",
+    "notas-obsidian/AI Engineering/Prompt Engineering.md",
+    "notas-obsidian/AI Engineering/Extensiones.md",
+    "notas-obsidian/AI Engineering/AI Engineering.md",
+    "Docker Commands.md",
     "notas-obsidian/Intro.md",
-    "notas-obsidian/Carisma/Carisma.md",
-    "notas-obsidian/Carisma/Seducción/Deseo Femenino.md",
-    "notas-obsidian/Carisma/Seducción",
-    "notas-obsidian/Carisma",
-    "notas-obsidian/Azure/Azure.md",
-    "notas-obsidian/Azure/Azure CLI/Azure CLI.md",
-    "notas-obsidian/Azure/Azure Cloud/Azure Cloud.md",
-    "notas-obsidian/Azure/Azure Devops/Azure Devops.md",
-    "notas-obsidian/Azure/Azure CLI",
-    "notas-obsidian/Azure/Azure Cloud",
-    "notas-obsidian/Azure/Azure Devops",
-    "notas-obsidian/Azure",
-    "notas-obsidian/Sistemas/UbuntuServer",
-    "notas-obsidian/Sistemas"
->>>>>>> 5230bb8963916d61f148d87502bfd44ff91deb19
+    "notas-obsidian/Sistemas/Untitled.md",
+    "notas-obsidian/Sistemas/Docker"
   ]
 }
