@@ -1,2 +1,3 @@
 [[Prompt Engineering]]
-[[Extensiones]]
+[[AI Engineering/Extensiones]]
+[[MCPs Utiles]]

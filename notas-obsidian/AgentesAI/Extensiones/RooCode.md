@@ -1,0 +1,1 @@
+Agente muy flexible y personalizable. Funciona por API keys pero también puedes pasarle modelos locales

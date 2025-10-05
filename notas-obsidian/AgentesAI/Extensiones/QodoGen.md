@@ -1,0 +1,1 @@
+Es gratuito pero más limitado a generar tests BDD o responder preguntas simples.

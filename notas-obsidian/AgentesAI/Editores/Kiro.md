@@ -1,0 +1,2 @@
+Está construido sobre _Code OSS_ (la base open-source de VS Code), de modo que puedes conservar tus configuraciones de VS Code y usar plugins compatibles.
+Kiro se describe como una “AI IDE” con un enfoque en _spec-driven development_. Crea las especificaciones y va trabajando incrementalmente, con tests y documentando los pasos.

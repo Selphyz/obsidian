@@ -1,0 +1,2 @@
+Estaban un poco por detrás en cosas de AI pero recientemente han hecho un partnership con *Anthropic*
+Los debugger de Jetbrains funcionan muy bien y te ayudan a entender cual es el problema para guias los prompts.

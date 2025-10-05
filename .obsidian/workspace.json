@@ -55,16 +55,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker Commands.md",
+                "file": "notas-obsidian/AI Engineering/AI Engineering.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Docker Commands"
+              "title": "AI Engineering"
+            }
+          },
+          {
+            "id": "e6712d6905779ba0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notas-obsidian/Ratios/Ratios.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ratios"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -208,17 +222,23 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "7592b85cfb24253b",
+  "active": "e6712d6905779ba0",
   "lastOpenFiles": [
+    "notas-obsidian/Sistemas/UbuntuServer/SCP Descargas.md",
+    "notas-obsidian/AI Engineering/MCPs Utiles.md",
+    "notas-obsidian/Sistemas/Docker/Docker Commands.md",
+    "notas-obsidian/Sistemas/UbuntuServer/Resize Hard Disk.md",
+    "notas-obsidian/Sistemas/UbuntuServer/Ubuntu Server.md",
+    "notas-obsidian/AI Engineering/AI Engineering.md",
+    "notas-obsidian/AI Engineering/Extensiones.md",
     "notas-obsidian/Sistemas/Docker/Docker.md",
+    "Docker Commands.md",
     "notas-obsidian/Sistemas/Sistemas.md",
     "notas-obsidian/AI Engineering/Prompt Engineering.md",
-    "notas-obsidian/AI Engineering/Extensiones.md",
-    "notas-obsidian/AI Engineering/AI Engineering.md",
-    "Docker Commands.md",
     "notas-obsidian/Intro.md",
     "notas-obsidian/Sistemas/Untitled.md",
     "notas-obsidian/Sistemas/Docker"

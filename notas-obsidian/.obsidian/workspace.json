@@ -4,175 +4,161 @@
     "type": "split",
     "children": [
       {
-        "id": "1997c2de8b6e1f0b",
+        "id": "707d178d1e1e0ef3",
         "type": "tabs",
         "children": [
           {
-            "id": "09b9c9c497827a85",
+            "id": "79039a1d3e2be8ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ratios/Ratios.md",
+                "file": "Sistemas/Git/Git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ratios"
+              "title": "Git"
             }
           },
           {
-            "id": "6bd8b212ad2404bb",
+            "id": "cd3bf69d91e6fb6f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ratios/Ratios.md",
+                "file": "Sistemas/Sistemas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ratios"
+              "title": "Sistemas"
             }
           },
           {
-            "id": "4a467ca80120dd75",
+            "id": "933d9b32e2b0b86d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI Engineering/AI Engineering.md",
+                "file": "Intro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI Engineering"
+              "title": "Intro"
             }
           },
           {
-            "id": "828348808882b7c2",
+            "id": "831c0dc6fd0056d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI Engineering/AI Engineering.md",
+                "file": "AgentesAI/ClaudeCode.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI Engineering"
+              "title": "ClaudeCode"
             }
           },
           {
-            "id": "3ac94e03ad37d294",
+            "id": "35193a9d08815d16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI Engineering/AI Engineering.md",
+                "file": "AgentesAI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI Engineering"
+              "title": "AgentesAI"
             }
           },
           {
-            "id": "4fa907f4b8d590ce",
+            "id": "bdcf9c60c0a16a0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI Engineering/AI Engineering.md",
+                "file": "AgentesAI/QwenCLI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI Engineering"
+              "title": "QwenCLI"
             }
           },
           {
-            "id": "cd6d8949929cd1c6",
+            "id": "166a18b42e1f6caa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemas/Docker/Docker.md",
+                "file": "AgentesAI/CharmCrush.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Docker"
+              "title": "CharmCrush"
             }
           },
           {
-            "id": "802dd7dc05c36761",
+            "id": "fd3549f45c1da1b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemas/Docker/Docker.md",
+                "file": "AgentesAI/SDKs/AmazonBedRock.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Docker"
+              "title": "AmazonBedRock"
             }
           },
           {
-            "id": "aee6ff757f123cff",
+            "id": "d4f7679a94ae52d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemas/Docker/Docker.md",
+                "file": "AgentesAI/SDKs/ClaudeSDK.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Docker"
+              "title": "ClaudeSDK"
             }
           },
           {
-            "id": "869e9e40b5f93616",
+            "id": "9a3d1d10a927168a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemas/Docker/Docker.md",
+                "file": "AgentesAI/SDKs/GoogleSDK.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Docker"
+              "title": "GoogleSDK"
             }
           },
           {
-            "id": "ce1af73d36300939",
+            "id": "2646a96d9c909338",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemas/Docker/K8.md",
+                "file": "AgentesAI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "K8"
-            }
-          },
-          {
-            "id": "287914b1cf7fa8ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sistemas/Docker/Docker.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Docker"
+              "title": "AgentesAI"
             }
           }
         ],
@@ -233,7 +219,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "1816e03d08fd8591",
@@ -305,8 +291,29 @@
               "icon": "lucide-list",
               "title": "Outline of Scikit Learn"
             }
+          },
+          {
+            "id": "2deb80d3c6e6049c",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "871f30de22ab7d18",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -324,44 +331,44 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "95a9e61e6b285f26",
+  "active": "2646a96d9c909338",
   "lastOpenFiles": [
-    "Sistemas/Docker/K8.md",
-    "Sistemas/Docker/Docker.md",
-    "Sistemas/Docker/Docker Commands.md",
-    "Sistemas/Sistemas.md",
-    "Sistemas/Instalación MCP.md",
-    "Sistemas/UbuntuServer/SCP Descargas.md",
-    "Sistemas/UbuntuServer/Resize Hard Disk.md",
-    "AI Engineering/Prompt Engineering.md",
-    "AI Engineering/Extensiones.md",
-    "AI Engineering/AI Engineering.md",
-    "AI Engineering/Copilot.md",
-    "Ratios/Ratios.md",
+    "AgentesAI/MCPs/Context7.md",
+    "AgentesAI/MCPs/ElasticSearch.md",
+    "AgentesAI/MCPs/TaskMasterAI.md",
+    "AgentesAI.md",
+    "ClaudeAgentSDK.md",
+    "AgentesAI/SDKs/GoogleSDK.md",
+    "GoogleAgentSDK.md",
+    "AgentesAI/Copilot.md",
+    "AgentesAI/Warp.md",
+    "AgentesAI/OpenAICodex.md",
+    "AgentesAI/QwenCLI.md",
+    "AgentesAI/Gemini.md",
+    "AgentesAI/ClaudeCode.md",
+    "AgentesAI/CharmCrush.md",
+    "AgentesAI/Augment.md",
+    "AgentesAI/Editores/Zed.md",
+    "AgentesAI/Editores/Windsurf.md",
+    "AgentesAI/Editores/Trae.md",
+    "AgentesAI/Editores/Qoder.md",
+    "AgentesAI/Editores/Kiro.md",
+    "AgentesAI/Editores/EditoresAI.md",
+    "AgentesAI/Editores/Jetbrains.md",
+    "AgentesAI/Editores/DeepAgent.md",
+    "AgentesAI/Editores/Cursor.md",
+    "AgentesAI/MCPs/Supabase.md",
+    "AgentesAI/SDKs/AmazonBedRock.md",
+    "AgentesAI/SDKs",
+    "AgentesAI/MCPs",
+    "AgentesAI/Extensiones",
+    "AgentesAI/Editores",
+    "AgentesAI",
+    "Dotnet",
+    "Sistemas/Git",
     "AI Engineering",
-    "Intro.md",
-    "Mejora/Mejora.md",
-    "RegistrosRooLogs/psicoapp.md",
-    "Python/Scikit Learn/Scikit Learn.md",
-    "Python/Pandas/Pandas.md",
-    "Python/Fastapi/Fastapi.md",
-    "Python/Dockling/Dockling.md",
-    "Psicologia/Models.md",
-    "Psicologia/Psicologia.md",
-    "Carisma/Carisma.md",
-    "Carisma/Seducción/Deseo Femenino.md",
-    "Negocios/Negocios.md",
-    "Negocios/MBA Personal.md",
-    "Negocios/Learn Startup.md",
     "Mejora",
     "Psicologia",
-    "Negocios",
-    "Negociación",
-    "Python/Fastapi",
-    "Python/Scikit Learn",
-    "Python/Pandas",
-    "Python/Dockling",
-    "Python",
     "Untitled.canvas"
   ]
 }
