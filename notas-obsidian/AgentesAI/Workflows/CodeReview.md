@@ -1,0 +1,1 @@
+Las IAs tienen acceso a todos los comandos de git pueden revisar los cambios desde el último commit

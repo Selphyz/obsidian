@@ -1,0 +1,5 @@
+[[GitWorktrees]]
+[[BMAD Method]]
+[[Open Spec]]
+[[GH Spec Kit]]
+[[ClaudeAgents]]

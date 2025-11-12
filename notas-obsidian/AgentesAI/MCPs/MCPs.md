@@ -8,3 +8,4 @@
 [[Neon]]
 [[Playwright]]
 [[Supabase]]
+[[Semgrep]]

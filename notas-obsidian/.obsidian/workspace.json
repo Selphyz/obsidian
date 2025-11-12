@@ -4,67 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "707d178d1e1e0ef3",
+        "id": "8878d9075d4a7190",
         "type": "tabs",
         "children": [
           {
-            "id": "79039a1d3e2be8ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sistemas/Git/Git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Git"
-            }
-          },
-          {
-            "id": "cd3bf69d91e6fb6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sistemas/Sistemas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sistemas"
-            }
-          },
-          {
-            "id": "933d9b32e2b0b86d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Intro.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Intro"
-            }
-          },
-          {
-            "id": "831c0dc6fd0056d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AgentesAI/ClaudeCode.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ClaudeCode"
-            }
-          },
-          {
-            "id": "35193a9d08815d16",
+            "id": "d4551ed5d16badd6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,77 +22,21 @@
             }
           },
           {
-            "id": "bdcf9c60c0a16a0c",
+            "id": "d2471544111f9f8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AgentesAI/QwenCLI.md",
+                "file": "AgentesAI/Gemini.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "QwenCLI"
+              "title": "Gemini"
             }
           },
           {
-            "id": "166a18b42e1f6caa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AgentesAI/CharmCrush.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CharmCrush"
-            }
-          },
-          {
-            "id": "fd3549f45c1da1b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AgentesAI/SDKs/AmazonBedRock.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AmazonBedRock"
-            }
-          },
-          {
-            "id": "d4f7679a94ae52d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AgentesAI/SDKs/ClaudeSDK.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ClaudeSDK"
-            }
-          },
-          {
-            "id": "9a3d1d10a927168a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AgentesAI/SDKs/GoogleSDK.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "GoogleSDK"
-            }
-          },
-          {
-            "id": "2646a96d9c909338",
+            "id": "2ccff307f32d4d32",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -159,10 +47,80 @@
               },
               "icon": "lucide-file",
               "title": "AgentesAI"
+            }
+          },
+          {
+            "id": "a35d38f1d8a34b1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AgentesAI/Workflows/Workflows.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Workflows"
+            }
+          },
+          {
+            "id": "2f9afd6fb8e8bd48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AgentesAI/Workflows/Workflows.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Workflows"
+            }
+          },
+          {
+            "id": "f4bf18be12099320",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AgentesAI/Workflows/Workflows.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Workflows"
+            }
+          },
+          {
+            "id": "e7498c704e0ede82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AgentesAI/Workflows/Workflows.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Workflows"
+            }
+          },
+          {
+            "id": "c35a7129516a1f75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AgentesAI/Workflows/AgentesWeb.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AgentesWeb"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -219,7 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 254.5
   },
   "right": {
     "id": "1816e03d08fd8591",
@@ -298,8 +256,8 @@
             "state": {
               "type": "BC-matrix",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "BC-matrix"
             }
           },
           {
@@ -308,8 +266,8 @@
             "state": {
               "type": "BC-tree",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "BC-tree"
             }
           }
         ],
@@ -322,6 +280,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -331,34 +290,35 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2646a96d9c909338",
+  "active": "95a9e61e6b285f26",
   "lastOpenFiles": [
-    "AgentesAI/MCPs/Context7.md",
-    "AgentesAI/MCPs/ElasticSearch.md",
-    "AgentesAI/MCPs/TaskMasterAI.md",
-    "AgentesAI.md",
-    "ClaudeAgentSDK.md",
-    "AgentesAI/SDKs/GoogleSDK.md",
-    "GoogleAgentSDK.md",
-    "AgentesAI/Copilot.md",
-    "AgentesAI/Warp.md",
-    "AgentesAI/OpenAICodex.md",
-    "AgentesAI/QwenCLI.md",
+    "AgentesAI/Workflows/CodeReview.md",
+    "AgentesAI/Workflows/AgentesWeb.md",
     "AgentesAI/Gemini.md",
+    "AgentesAI/FactoryDroid.md",
+    "AgentesAI/Copilot.md",
     "AgentesAI/ClaudeCode.md",
     "AgentesAI/CharmCrush.md",
     "AgentesAI/Augment.md",
-    "AgentesAI/Editores/Zed.md",
-    "AgentesAI/Editores/Windsurf.md",
-    "AgentesAI/Editores/Trae.md",
-    "AgentesAI/Editores/Qoder.md",
-    "AgentesAI/Editores/Kiro.md",
-    "AgentesAI/Editores/EditoresAI.md",
-    "AgentesAI/Editores/Jetbrains.md",
+    "AgentesAI/Workflows/GitWorktrees.md",
+    "AgentesAI/Workflows/ClaudeHooks.md",
+    "AgentesAI/Workflows/ClaudeAgents.md",
+    "AgentesAI/Workflows/GH Spec Kit.md",
+    "AgentesAI/Workflows/Open Spec.md",
+    "AgentesAI/Workflows/Workflows.md",
+    "AgentesAI/OpenAICodex.md",
+    "AgentesAI/QwenCLI.md",
+    "AgentesAI/Warp.md",
+    "AgentesAI/Workflows/BMAD Method.md",
+    "AgentesAI.md",
     "AgentesAI/Editores/DeepAgent.md",
-    "AgentesAI/Editores/Cursor.md",
-    "AgentesAI/MCPs/Supabase.md",
-    "AgentesAI/SDKs/AmazonBedRock.md",
+    "AgentesAI/Workflows",
+    "AgentesAI/MCPs/Semgrep.md",
+    "AgentesAI/MCPs/MCPs.md",
+    "AgentesAI/MCPs/Context7.md",
+    "AgentesAI/MCPs/ElasticSearch.md",
+    "AgentesAI/MCPs/TaskMasterAI.md",
+    "ClaudeAgentSDK.md",
     "AgentesAI/SDKs",
     "AgentesAI/MCPs",
     "AgentesAI/Extensiones",
@@ -368,7 +328,6 @@
     "Sistemas/Git",
     "AI Engineering",
     "Mejora",
-    "Psicologia",
     "Untitled.canvas"
   ]
 }

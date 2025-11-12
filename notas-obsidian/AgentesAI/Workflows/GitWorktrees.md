@@ -1,0 +1,1 @@
+Un clon del repositorio con su sistema de directorios completamente independiente. Distinado a ser mergeado como si se mergearan branches. Combina bien con agentes simultaneos

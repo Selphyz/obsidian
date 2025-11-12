@@ -1,0 +1,1 @@
+Instrucciones ejecutadas cuando claude activa ciertos triggers

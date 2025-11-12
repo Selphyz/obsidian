@@ -6,6 +6,7 @@
 [[Gemini]]
 [[Augment]]
 [[Warp]]
+[[FactoryDroid]]
 
 [[EditoresAI]]
 [[DeepAgent]]
@@ -35,6 +36,7 @@
 [[Neon]]
 [[Playwright]]
 [[Supabase]]
+[[Semgrep]]
 
 
 SDKs
